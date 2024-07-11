@@ -4,9 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93f6cad4-9db1-402f-9697-e9995aab8851" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/LibriTTS/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/Inference_LibriTTS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/Inference_LibriTTS.ipynb" afterDir="false" />
+    <list default="true" id="93f6cad4-9db1-402f-9697-e9995aab8851" name="Changes" comment="Ran Demo/Inference_LibriTTS.ipynb">
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/1221-135767-0014.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/1789_142896_000022_000005.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/4.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/4077-13754-0000.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/5.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/5639-40744-0020.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/696_92939_000016_000006.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/908-157963-0027.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/Gavin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/Nima.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/Vinay.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/Yinghao.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/amused.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/anger.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/disgusted.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/reference_audio/sleepy.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/LibriTTS/epochs_2nd_00020.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/saadn/PycharmProjects/StyleTTS2/Demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -67,11 +84,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720707914118</updated>
-      <workItem from="1720707915346" duration="975000" />
+      <workItem from="1720707915346" duration="1309000" />
     </task>
+    <task id="LOCAL-00001" summary="Ran Demo/Inference_LibriTTS.ipynb">
+      <option name="closed" value="true" />
+      <created>1720709109433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720709109433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ran Demo/Inference_LibriTTS.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ran Demo/Inference_LibriTTS.ipynb" />
   </component>
 </project>
