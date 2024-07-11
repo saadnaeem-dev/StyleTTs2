@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93f6cad4-9db1-402f-9697-e9995aab8851" name="Changes" comment="" />
+    <list default="true" id="93f6cad4-9db1-402f-9697-e9995aab8851" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Models/LibriTTS/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/Inference_LibriTTS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/Inference_LibriTTS.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/saadn/PycharmProjects/StyleTTS2/Data/reference_audio",
+    "last_opened_file_path": "C:/Users/saadn/PycharmProjects/StyleTTS2/Demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,6 +41,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saadn\PycharmProjects\StyleTTS2\Demo" />
+      <recent name="C:\Users\saadn\PycharmProjects\StyleTTS2" />
       <recent name="C:\Users\saadn\PycharmProjects\StyleTTS2\Data\reference_audio" />
       <recent name="C:\Users\saadn\PycharmProjects\StyleTTS2\Models\LibriTTS" />
     </key>
@@ -62,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720707914118</updated>
-      <workItem from="1720707915346" duration="673000" />
+      <workItem from="1720707915346" duration="975000" />
     </task>
     <servers />
   </component>
